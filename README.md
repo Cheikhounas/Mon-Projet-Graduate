@@ -3,15 +3,16 @@
 
 A. Technologies :
 Pour le front :
-● HTML 5
-● CSS 3
-● Bootstrap
-● JavaScript
-● SweetAlert
+1)HTML 5
+2)CSS 3
+3) Bootstrap
+4)JavaScript
+5)SweetAlert
+
 pour le back :
-● PHP v8.2.2 
-● Laravel (v10.8.0)
-● MySQL
+1)PHP v8.2.2 
+2)Laravel (v10.8.0)
+3)MySQL
 
 B. Configuration:
 1. Dezipper le dossier et placer le dans le repertoire de développement local
