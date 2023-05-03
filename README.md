@@ -4,16 +4,16 @@
 A. Technologies :
 
 Pour le front :
-1)HTML 5
-2)CSS 3
-3) Bootstrap
-4)JavaScript
-5)SweetAlert
+HTML 5 ,
+CSS 3 ,
+Bootstrap ,
+JavaScript ,
+SweetAlert
 
 
 pour le back :
-1)PHP v8.2.2 
-2)Laravel (v10.8.0)
+1)PHP v8.2.2  ,
+2)Laravel (v10.8.0) ,
 3)MySQL
 
 
