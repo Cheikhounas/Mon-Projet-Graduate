@@ -1,15 +1,22 @@
 # Mon-Projet-Graduate
+
+
 A. Technologies :
+
 Pour le front :
 1)HTML 5
 2)CSS 3
 3) Bootstrap
 4)JavaScript
 5)SweetAlert
+
+
 pour le back :
 1)PHP v8.2.2 
 2)Laravel (v10.8.0)
 3)MySQL
+
+
 B. Configuration:
 1. Dezipper le dossier et placer le dans le repertoire de développement local
 2. Ouvrez l'inviter de commande
