@@ -1,5 +1,6 @@
 # Mon-Projet-Graduate
-Ce projet est le résultat de mon ECF
+
+
 A. Technologies :
 Pour le front :
 ● HTML 5
