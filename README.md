@@ -12,9 +12,9 @@ SweetAlert
 
 
 pour le back :
-1)PHP v8.2.2  ,
-2)Laravel (v10.8.0) ,
-3)MySQL
+PHP v8.2.2  ,
+Laravel (v10.8.0) ,
+MySQL
 
 
 B. Configuration:
